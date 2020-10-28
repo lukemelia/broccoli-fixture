@@ -7,6 +7,8 @@ the file system. It lets you turn
 [fixturify](https://github.com/joliss/node-fixturify) objects into Broccoli
 nodes, and build Broccoli nodes back into fixturify objects.
 
+Note: [broccoli-test-helper](https://github.com/broccolijs/broccoli-test-helper) provides similar functionality / features to this plugin, but is more actively maintained. 
+
 ## Usage
 
 ### `Node`: Fixture object to Broccoli node
